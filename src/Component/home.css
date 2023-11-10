@@ -1,0 +1,7 @@
+*{
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+
+li { cursor: pointer; }
